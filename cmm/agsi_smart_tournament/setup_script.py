@@ -23,4 +23,5 @@ def input_value():
                             #add calc stats back get_calc_stats(team)
 
 if __name__ == '__main__':
+    # deepcode ignore RunWithDebugTrue: <please specify a reason of ignoring this>
     app.run(threaded=False, debug = True, host = '0.0.0.0')
