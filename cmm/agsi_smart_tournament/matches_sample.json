@@ -1,0 +1,606 @@
+"data": [
+    {
+        "id": 34364266,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 2,
+        "instance": 1,
+        "matchnum": 6,
+        "scheduled": "2022-11-05T10:30:00-04:00",
+        "started": "2022-11-05T11:17:15-04:00",
+        "field": "Field 2",
+        "scored": false,
+        "name": "Qualifier #6",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 97,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 129624,
+                            "name": "39840B",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 42,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 56849,
+                            "name": "9364E",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 79946,
+                            "name": "16859B",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34364270,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 2,
+        "instance": 1,
+        "matchnum": 10,
+        "scheduled": "2022-11-05T10:54:00-04:00",
+        "started": "2022-11-05T11:42:58-04:00",
+        "field": "Field 2",
+        "scored": false,
+        "name": "Qualifier #10",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 103,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 140027,
+                            "name": "9364K",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 121967,
+                            "name": "12876A",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 48,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 73005,
+                            "name": "16859A",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34364279,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 2,
+        "instance": 1,
+        "matchnum": 19,
+        "scheduled": "2022-11-05T11:48:00-04:00",
+        "started": "2022-11-05T13:24:04-04:00",
+        "field": "Field 1",
+        "scored": false,
+        "name": "Qualifier #19",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 68,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 56473,
+                            "name": "9364D",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 143184,
+                            "name": "2536A",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 163,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 121914,
+                            "name": "24816T",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34364287,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 2,
+        "instance": 1,
+        "matchnum": 27,
+        "scheduled": "2022-11-05T13:30:00-04:00",
+        "started": "2022-11-05T14:00:12-04:00",
+        "field": "Field 1",
+        "scored": false,
+        "name": "Qualifier #27",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 162,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 123261,
+                            "name": "19589A",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 27,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 129623,
+                            "name": "39840A",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 122729,
+                            "name": "16859D",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34364293,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 2,
+        "instance": 1,
+        "matchnum": 33,
+        "scheduled": "2022-11-05T14:00:00-04:00",
+        "started": "2022-11-05T14:25:48-04:00",
+        "field": "Field 1",
+        "scored": false,
+        "name": "Qualifier #33",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 183,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 96885,
+                            "name": "57249A",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 123261,
+                            "name": "19589A",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 37,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 97280,
+                            "name": "57249B",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34364300,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 2,
+        "instance": 1,
+        "matchnum": 40,
+        "scheduled": "2022-11-05T14:35:00-04:00",
+        "started": "2022-11-05T14:59:33-04:00",
+        "field": "Field 2",
+        "scored": false,
+        "name": "Qualifier #40",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 70,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 142061,
+                            "name": "57711C",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 71,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 141518,
+                            "name": "39840F",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 122567,
+                            "name": "12876B",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34364308,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 2,
+        "instance": 1,
+        "matchnum": 48,
+        "scheduled": "2022-11-05T15:15:00-04:00",
+        "started": null,
+        "field": "Field 2",
+        "scored": false,
+        "name": "Qualifier #48",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 0,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 129428,
+                            "name": "9364J",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 141231,
+                            "name": "24816X",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 0,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 86405,
+                            "name": "24816H",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34364318,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 3,
+        "instance": 4,
+        "matchnum": 1,
+        "scheduled": null,
+        "started": "2022-11-05T17:10:33-04:00",
+        "field": "Field 2",
+        "scored": false,
+        "name": "QF #4-1",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 81,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 122567,
+                            "name": "12876B",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 142061,
+                            "name": "57711C",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 114,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 121914,
+                            "name": "24816T",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34364320,
+        "event": {
+            "id": 48832,
+            "name": "LCA High School Fall Robotics Tournament",
+            "code": "RE-VRC-22-8832"
+        },
+        "division": {
+            "id": 1,
+            "name": "Division 1",
+            "code": null
+        },
+        "round": 4,
+        "instance": 2,
+        "matchnum": 1,
+        "scheduled": null,
+        "started": "2022-11-05T17:29:56-04:00",
+        "field": "Field 2",
+        "scored": false,
+        "name": "SF #2-1",
+        "alliances": [
+            {
+                "color": "blue",
+                "score": 104,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 121914,
+                            "name": "24816T",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 142060,
+                            "name": "57711X",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "score": 143,
+                "teams": [
+                    {
+                        "team": {
+                            "id": 96885,
+                            "name": "57249A",
+                            "code": null
+                        },
+                        "sitting": false
+                    },
+                    {
+                        "team": {
+                            "id": 56473,
+                            "name": "9364D",
+                            "code": null
+                        },
+                        "sitting": false
+                    }
+                ]
+            }
+        ]
+    }
+]
+}

@@ -1,0 +1,114 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/report-card-style.css') }}">
+</head>
+    <div id="full_page">
+    
+    <h1>Team Profile ({{team_info[1]}}) </h1>
+ 
+    <div>
+        <div class="module">
+            <p id="module_header">Avg Score</p>
+            <p id="first_calc_box">{{calc_stats["average_team_score"]}}</p>
+        </div>
+        <div class="module">
+            <p id="module_header">Avg Opponent Score</p>
+            <p id="first_calc_box">{{calc_stats["average_opp_score"]}}</p>
+        </div>
+        <div class="module">
+            <p id="module_header">Team Highest Score</p>
+            <p id="first_calc_box">{{calc_stats["team_top_score"]}}</p>
+        </div>
+        <div class="module">
+            <p id="module_header">Highest Opponent Score</p>
+            <p id="first_calc_box">{{calc_stats["opp_top_score"]}}</p>
+        </div>
+        <div class="module">
+            <p id="module_header">Team Lowest Score</p>
+            <p id="first_calc_box">{{calc_stats["team_bottom_score"]}}</p>
+        </div>
+        <div class="module">
+            <p id="module_header">Opponent Lowest Score</p>
+            <p id="first_calc_box">{{calc_stats["opp_bottom_score"]}}</p>
+        </div>
+    </div>   
+    <div>
+        <div class="module">
+            <p id="module_header">Matches Won</p>
+            <p id="first_calc_box">{{calc_stats["matches_result_won_count"]}}</p>
+        </div>
+        <div class="module">
+            <p id="module_header">Matches Lost</p>
+            <p id="first_calc_box">{{calc_stats["matches_result_lost_count"]}}</p>
+        </div>
+        <div class="module">
+            <p id="module_header">Total Matches Played</p>
+            <p id="first_calc_box">{{calc_stats["total_matches_played"]}}</p>
+        </div>
+        <div class="module">
+            <p id="module_header">Win Percentage</p>
+            <p id="first_calc_box">{{calc_stats["win_percent"]}}%</p>
+        </div>
+    </div>   
+<!--    <table id="stats_table">
+        <thead>
+            <tr class="tchr">
+
+                {% for key, value in calc_stats.items() %}
+                    <th>{{key}}</th>  
+                {% endfor %}  
+            </tr>
+        </thead>   
+        <tbody>
+            <tr>
+                {% for key, value in calc_stats.items() %}
+                    <td>{{value}}</td>
+                {% endfor %}
+                </tr>
+            </tr> 
+        </tbody>  
+    </table> -->
+    <table class="tb">
+        <thead>
+            <tr class="thr">
+                {# for dict in match_details[0] #}
+                    <th>Event Name</th>
+                    <th>Round</th>
+                    <th>Color</th>
+                    <th>Team Score</th>
+                    <th>Opp Score</th>
+                    <th>Match Won</th>
+                {# endfor #}
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="tbr">
+                {% for dict in match_details %}
+                    {% for key, value in dict.items() %}
+                        <td>{{ value }}</td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <h3>Team ID</h3>
+    <p>{{team_info[0]}}</p>
+    <h3>Team Number</h3>
+    <p>{{team_info[1]}}</p>
+    <h3>Team Name</h3>
+    <p>{{team_info[2]}}</p>
+    <h3>Robot Name</h3>
+    <p>{{team_info[3]}}</p>
+    <h3>Organization</h3>
+    <p>{{team_info[4]}}</p>
+    <h3>Grade</h3>
+    <p>{{team_info[5]}}</p>
+    <h3>Team Region</h3>
+    <p>{{team_info[6]}}</p>
+    <h3>Team City</h3>
+    <p>{{team_info[7]}}</p>
+    <h3>Team Programs</h3>
+    <p>{{team_info[8]}}</p>
+</div>

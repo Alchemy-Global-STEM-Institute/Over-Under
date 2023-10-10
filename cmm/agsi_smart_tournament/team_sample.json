@@ -1,0 +1,43 @@
+"meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/teams?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://www.robotevents.com/api/v2/teams?page=1",
+    "next_page_url": null,
+    "path": "https://www.robotevents.com/api/v2/teams",
+    "per_page": 15,
+    "prev_page_url": null,
+    "to": 1,
+    "total": 1
+},
+"data": [
+    {
+        "id": 142060,
+        "number": "57711X",
+        "team_name": "Rocky",
+        "robot_name": "Rocky",
+        "organization": "Alchemy Global STEM Institute",
+        "location": {
+            "venue": null,
+            "address_1": "",
+            "address_2": null,
+            "city": "Morristown",
+            "region": "Tennessee",
+            "postcode": "37814",
+            "country": "United States",
+            "coordinates": {
+                "lat": 36.200000000000003,
+                "lon": -83.400000000000006
+            }
+        },
+        "registered": true,
+        "program": {
+            "id": 1,
+            "name": "VEX Robotics Competition",
+            "code": "VRC"
+        },
+        "grade": "High School"
+    }
+]
+}

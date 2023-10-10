@@ -1,0 +1,57 @@
+"data": [
+    {
+        "id": 48741,
+        "sku": "RE-VRC-22-8741",
+        "name": "Northeast TN VRC Season Kickoff High School",
+        "start": "2022-10-08T00:00:00-04:00",
+        "end": "2022-10-08T00:00:00-04:00",
+        "season": {
+            "id": 173,
+            "name": "VRC 2022-2023: Spin Up",
+            "code": null
+        },
+        "program": {
+            "id": 1,
+            "name": "VEX Robotics Competition",
+            "code": "VRC"
+        },
+        "location": {
+            "venue": "4500 Weaver Pike",
+            "address_1": "4500 Weaver Pike",
+            "address_2": null,
+            "city": "Bluff City",
+            "region": "Tennessee",
+            "postcode": "37618",
+            "country": "United States",
+            "coordinates": {
+                "lat": 36.493957000000002,
+                "lon": -82.204554000000002
+            }
+        },
+        "locations": {
+            "2022-10-08": {
+                "venue": "4500 Weaver Pike",
+                "address_1": "4500 Weaver Pike",
+                "address_2": null,
+                "city": "Bluff City",
+                "region": "Tennessee",
+                "postcode": "37618",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 36.493957000000002,
+                    "lon": -82.204554000000002
+                }
+            }
+        },
+        "divisions": [
+            {
+                "id": 1,
+                "name": "Division 1",
+                "order": 1
+            }
+        ],
+        "level": "Other",
+        "ongoing": false,
+        "awards_finalized": true,
+        "event_type": null
+    },

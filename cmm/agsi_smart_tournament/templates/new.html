@@ -1,0 +1,36 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/page-style.css') }}"
+</head>
+<body>
+
+<section>
+      <div class="top_form">
+          <form method= "POST" action = "." enctype="multipart/form-data" accept="text">
+              <img id="logo" src="{{ url_for('static', filename='graphics/AGSI-Logo-Stacked.PNG') }}" alt="stacked-logo">
+                <div class="input_group">
+                    <div class = "form_title">
+                        <u>Enter team name here!</u></div><br>
+                    <div class = "text_input">
+                        <input type="text" name = "team_number" enctype="multipart/form-data">
+                    </div>
+                    <div class = "submit_button">
+                        <input type="submit" name="submit_form" enctype="multipart/form-data">
+                    </div>
+          </form>
+      </div>
+      <!-- <div class = "report_card">
+        <div class = "scorecard_group">
+            <div class = "score1"><u>Score 1 here!</u></div>
+            <div class = "score2"><u>Score 2 here!</u></div>
+            <div class = "score3"><u>Score 3 here!</u></div>
+            <div class = "score4"><u>Score 4 here!</u></div>
+            <div class = "score5"><u>Score 5 here!</u></div>
+        </div>
+      </div>-->
+</section>
+
+</body>
+</html>

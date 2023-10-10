@@ -1,0 +1,67 @@
+#full_page {
+    margin: auto;
+    width: 80%;
+}
+
+table.tb{
+
+}
+tr.tbr {
+    border:1px solid black;
+}
+
+table { border-collapse: separate;
+    border-spacing: 1px 0; 
+    font-family:arial;
+    }
+tr { border: solid thin; }
+tbody tr:nth-child(odd){
+    background-color: #ADADAD;
+  color: #fff;
+}
+tbody tr:nth-child(even){
+    background-color: #adadad58;
+  color: rgb(8, 8, 8);
+}
+td {
+    padding:10px;
+}
+
+#first_calc_box {
+    text-align: center;
+    vertical-align: center;
+    font-family:arial;
+    font-size: xx-large;
+    border-radius: 25px;
+    background: #E9B560;
+    padding: 20px; 
+    width: 100px;
+    height: 50px;
+    margin-top: -15px
+  }
+
+.module {
+    display: inline-block;
+    /*padding:0;
+    margin:0;
+    float: left;*/
+}
+#module_header {
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    font-family: arial;
+    word-wrap: normal;
+    width: 100px;
+    font-size: large;
+    margin-bottom: -10px;
+}
+/* #stats_table {
+    display: block;
+}
+#stats_table th {
+    display: inline-block;
+}
+#stats_table td {
+    display: inline-block;
+} */
